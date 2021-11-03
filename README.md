@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Jimminer, a programmer.
-- 🌱 I’m currently learning Python, lua and JavaScript
+- 🌱 I’m currently learning C, Python, lua and JavaScript
 - 💞️ I’m looking to collaborate on a Python RPG game
 - 📫 E-mail: jimminer2003@gmail.com
 
