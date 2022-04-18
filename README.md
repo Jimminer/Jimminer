@@ -1,7 +1,7 @@
 ## 😀 About Me:
 
-- 👋 Hello, I’m Dimitris, a programmer from Greece.
-- 🌱 I'm studying Computer Science at the University of Western Macedonia, Greece.
+- 👋 My name is Jim and I am from Greece
+- 🌱 I'm studying Computer Science at the University of Western Macedonia, Greece
 - 📫 E-mail: jimminer2003@gmail.com
 - 💬 Discord: Mitsos#0901
 
@@ -25,7 +25,7 @@
 
 ## 🔌 Current Projects:
 -  [Open eClass](https://www.openeclass.org/) Windows/Android companion app. More info [here](https://jimminer.github.io/open-eclass-companion/).
--  Simple university project with data structures.
+-  Possible continuation of the [Simple RPG](https://github.com/Jimminer/simple-rpg) game.
 
 ## 📊 Stats:
 <div>
