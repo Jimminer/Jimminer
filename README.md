@@ -8,6 +8,7 @@
 ## 🖥️ Programming Languages:
 <div>
   <p align="center">
+    <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
     <img title=C src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg width=60 height=60>
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
     <img title=Python src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg width=60 height=60 style="">
@@ -17,6 +18,7 @@
     <img title=JavaScript src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg width=60 height=60>
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
     <img title=HTML src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg width=60 height=60>
+    <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
   </p>
 </div>
 
