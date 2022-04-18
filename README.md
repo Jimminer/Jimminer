@@ -22,7 +22,7 @@
 
 
 ## 🔌 Current Projects:
--  [Open eClass](https://www.openeclass.org/) Windows/Android companion app.
+-  [Open eClass](https://www.openeclass.org/) Windows/Android companion app. More info [here](https://jimminer.github.io/open-eclass-companion/).
 -  Simple university project with data structures.
 
 ## 📊 Stats:
