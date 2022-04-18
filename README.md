@@ -28,5 +28,7 @@
 ## 📊 Stats:
 <div>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jimminer&layout=compact&theme=github_dark style="object-fit: cover;width: 100%;height: 160px;">
-  <img src=https://komarev.com/ghpvc/?username=jimminer&style=for-the-badge&color=c90e0e&label=Profile+Visits style="width: 200px; height: auto;">
+  <p align="center">
+    <img src=https://komarev.com/ghpvc/?username=jimminer&style=for-the-badge&color=c90e0e&label=Profile+Visits style="width: 200px; height: auto;">
+  </p>
 </div>
