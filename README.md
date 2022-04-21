@@ -2,7 +2,7 @@
 
 - 👋 My name is Jim and I am from Greece
 - 🌱 I'm studying Computer Science at the University of Western Macedonia, Greece
-- 📫 E-mail: jimminer2003@gmail.com
+- 📫 E-mail: [Personal](jimminer2003@gmail.com) or [Academic](cs04502@uowm.gr)
 - 💬 Discord: Mitsos#0901
 
 ## 🖥️ Programming Languages:
