@@ -1,3 +1,10 @@
+<!-- https://leviarista.github.io/github-profile-header-generator -->
+<div>
+<p align="center">
+    <img src=./banner.png>
+</p>
+</div>
+
 ## 😀 About Me:
 
 - 👋 My name is Jim and I am from Greece
@@ -5,26 +12,32 @@
 - 📫 E-mail: [Personal](jimminer2003@gmail.com) or [Academic](cs04502@uowm.gr)
 - 💬 Discord: Mitsos#0901
 
+<!-- https://skillicons.dev/icons?i=python -->
 ## 🖥️ Programming Languages:
 <div>
   <p align="center">
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=C src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg width=60 height=60>
+    <img title=C src=./c.svg width=60 height=60>
+<!--     <img title=C src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg width=60 height=60> -->
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=Python src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg width=60 height=60 style="">
+    <img title=Python src=./python.svg width=60 height=60>
+<!--     <img title=Python src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg width=60 height=60 style=""> -->
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=Lua src=https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg width=60 height=60>
+    <img title=Bash src=./bash.svg width=60 height=60>
+<!--     <img title=Lua src=https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg width=60 height=60> -->
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=JavaScript src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg width=60 height=60>
+    <img title=Lua src=./lua.svg width=60 height=60>
+<!--     <img title=JavaScript src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg width=60 height=60> -->
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=HTML src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg width=60 height=60>
+    <img title=JavaScript src=./js.svg width=60 height=60>
+<!--     <img title=HTML src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg width=60 height=60> -->
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
   </p>
 </div>
 
 
 ## 🔌 Current Projects:
--  [Open eClass](https://www.openeclass.org/) Windows/Android companion app. More info [here](https://jimminer.github.io/open-eclass-companion/).
+-  [Open eClass](https://www.openeclass.org/) PC/Android companion app. More info [here](https://jimminer.github.io/open-eclass-companion/).
 -  Possible continuation of the [Simple RPG](https://github.com/Jimminer/simple-rpg) game.
 
 ## 📊 Stats:
