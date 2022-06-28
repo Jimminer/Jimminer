@@ -11,7 +11,6 @@
 - 👨🏽‍🎓 I'm studying Computer Science at the University of Western Macedonia, Greece
 - 📫 E-mail: [Personal](jimminer2003@gmail.com) or [Academic](cs04502@uowm.gr)
 - 💬 Discord: Mitsos#0901
-- 🌱 My Story: My father introduced me to computers and programming when I was very little. Growing up, I started experimenting on my own in Lua and later started learning Python and JavaScript. I finished high school and hadn't yet made my choice on whether I wanted to study Computer Science or Software Engineering. I chose Computer Science (as I thought it was the safer option) and enrolled into university. I'm finishing my degree in 2025/2026 if everything goes as planned.
 
 <!-- https://skillicons.dev/icons?i=python -->
 ## 🖥️ Programming Languages:
