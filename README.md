@@ -1,3 +1,9 @@
+<html>
+<head>
+<link rel="stylesheet" href="./styling.css">
+</head>
+<body>
+
 <!-- https://leviarista.github.io/github-profile-header-generator -->
 <div>
     <p align="center">
@@ -17,19 +23,19 @@
 <div>
   <p align="center">
     <!--  C  -->
-    <img title=C src=./c.svg width=60 height=60 style="margin: 0px 20px;">
+    <img class="languageImg" title=C src=./c.svg width=60 height=60>
     <!--  C++  -->
-    <img title=C++ src=./cpp.svg width=60 height=60 style="margin: 0px 20px;">
+    <img class="languageImg" title=C++ src=./cpp.svg width=60 height=60>
     <!--  Python  -->
-    <img title=Python src=./python.svg width=60 height=60 style="margin: 0px 20px;">
+    <img class="languageImg" title=Python src=./python.svg width=60 height=60>
     <!--  Lua  -->
-    <img title=Lua src=./lua.svg width=60 height=60 style="margin: 0px 20px;">
+    <img class="languageImg" title=Lua src=./lua.svg width=60 height=60>
     <!--  Bash  -->
-    <img title=Bash src=./bash.svg width=60 height=60 style="margin: 0px 20px;">
+    <img class="languageImg" title=Bash src=./bash.svg width=60 height=60>
     <!--  Rust  -->
-    <img title=Rust src=./rust.svg width=60 height=60 style="margin: 0px 20px;">
+    <img class="languageImg" title=Rust src=./rust.svg width=60 height=60>
     <!--  JavaScript  -->
-    <img title=JavaScript src=./js.svg width=60 height=60 style="margin: 0px 20px;">
+    <img class="languageImg" title=JavaScript src=./js.svg width=60 height=60>
   </p>
   
   <p align="center">
@@ -50,3 +56,7 @@
     <img src=https://komarev.com/ghpvc/?username=jimminer&style=for-the-badge&color=c90e0e&label=Profile+Visits style="width: 200px; height: auto;">
   </p>
 </div>
+
+
+</body>
+</html>
