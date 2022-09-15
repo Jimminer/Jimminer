@@ -22,20 +22,49 @@
 ## 🖥️ Programming Languages:
 <div>
   <p align="center">
+    
     <!--  C  -->
-    <img class="languageImg" title=C src=./c.svg width=60 height=60>
+    
+    &ensp;
+    <img title=C src=./c.svg width=60 height=60>
+    &ensp;
+    
     <!--  C++  -->
-    <img class="languageImg" title=C++ src=./cpp.svg width=60 height=60>
+    
+    &ensp;
+    <img title=C++ src=./cpp.svg width=60 height=60>
+    &ensp;
+    
     <!--  Python  -->
-    <img class="languageImg" title=Python src=./python.svg width=60 height=60>
+    
+    &ensp;
+    <img title=Python src=./python.svg width=60 height=60>
+    &ensp;
+    
     <!--  Lua  -->
-    <img class="languageImg" title=Lua src=./lua.svg width=60 height=60>
+    
+    &ensp;
+    <img title=Lua src=./lua.svg width=60 height=60>
+    &ensp;
+    
     <!--  Bash  -->
-    <img class="languageImg" title=Bash src=./bash.svg width=60 height=60>
+    
+    &ensp;
+    <img title=Bash src=./bash.svg width=60 height=60>
+    &ensp;
+    
     <!--  Rust  -->
-    <img class="languageImg" title=Rust src=./rust.svg width=60 height=60>
+    
+    &ensp;
+    <img title=Rust src=./rust.svg width=60 height=60>
+    &ensp;
+    
     <!--  JavaScript  -->
-    <img class="languageImg" title=JavaScript src=./js.svg width=60 height=60>
+    
+    &ensp;
+    <img title=JavaScript src=./js.svg width=60 height=60>
+    &ensp;
+    
   </p>
   
   <p align="center">
