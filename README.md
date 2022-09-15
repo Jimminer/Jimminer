@@ -22,7 +22,6 @@
 ## 🖥️ Programming Languages:
 <div>
   <p align="center">
-    
     <!--  C  -->
     
     &ensp;
@@ -64,7 +63,6 @@
     &ensp;
     <img title=JavaScript src=./js.svg width=60 height=60>
     &ensp;
-    
   </p>
   
   <p align="center">
