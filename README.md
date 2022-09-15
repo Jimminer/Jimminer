@@ -17,25 +17,19 @@
 <div>
   <p align="center">
     <!--  C  -->
-    <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=C src=./c.svg width=60 height=60>
+    <img title=C src=./c.svg width=60 height=60 style="margin: 0px 20px;">
+    <!--  C++  -->
+    <img title=C++ src=./cpp.svg width=60 height=60 style="margin: 0px 20px;">
     <!--  Python  -->
-    <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=Python src=./python.svg width=60 height=60>
+    <img title=Python src=./python.svg width=60 height=60 style="margin: 0px 20px;">
     <!--  Lua  -->
-    <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=Lua src=./lua.svg width=60 height=60>
+    <img title=Lua src=./lua.svg width=60 height=60 style="margin: 0px 20px;">
     <!--  Bash  -->
-    <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=Bash src=./bash.svg width=60 height=60>
+    <img title=Bash src=./bash.svg width=60 height=60 style="margin: 0px 20px;">
     <!--  Rust  -->
-    <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=Rust src=./rust.svg width=60 height=60>
+    <img title=Rust src=./rust.svg width=60 height=60 style="margin: 0px 20px;">
     <!--  JavaScript  -->
-    <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=JavaScript src=./js.svg width=60 height=60>
-    <!--  Empty  -->
-    <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
+    <img title=JavaScript src=./js.svg width=60 height=60 style="margin: 0px 20px;">
   </p>
   
   <p align="center">
@@ -50,7 +44,7 @@
 
 ## 📊 Stats:
 <div>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jimminer&layout=compact&theme=github_dark style="object-fit: cover;width: 100%;height: 160px;">
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jimminer&layout=compact&theme=github_dark style="object-fit: cover; width: 100%; height: 160px;">
   
   <p align="center">
     <img src=https://komarev.com/ghpvc/?username=jimminer&style=for-the-badge&color=c90e0e&label=Profile+Visits style="width: 200px; height: auto;">
