@@ -1,9 +1,3 @@
-<html>
-<head>
-<link rel="stylesheet" href="./styling.css">
-</head>
-<body>
-
 <!-- https://leviarista.github.io/github-profile-header-generator -->
 <div>
     <p align="center">
@@ -22,6 +16,7 @@
 ## 🖥️ Programming Languages:
 <div>
   <p align="center">
+    
     <!--  C  -->
     
     &ensp;
@@ -63,6 +58,7 @@
     &ensp;
     <img title=JavaScript src=./js.svg width=60 height=60>
     &ensp;
+    
   </p>
   
   <p align="center">
@@ -83,7 +79,3 @@
     <img src=https://komarev.com/ghpvc/?username=jimminer&style=for-the-badge&color=c90e0e&label=Profile+Visits style="width: 200px; height: auto;">
   </p>
 </div>
-
-
-</body>
-</html>
