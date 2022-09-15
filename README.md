@@ -16,49 +16,34 @@
 ## 🖥️ Programming Languages:
 <div>
   <p align="center">
-    
     <!--  C  -->
-    
     &ensp;
     <img title=C src=./c.svg width=60 height=60>
     &ensp;
-    
     <!--  C++  -->
-    
     &ensp;
     <img title=C++ src=./cpp.svg width=60 height=60>
     &ensp;
-    
     <!--  Python  -->
-    
     &ensp;
     <img title=Python src=./python.svg width=60 height=60>
     &ensp;
-    
     <!--  Lua  -->
-    
     &ensp;
     <img title=Lua src=./lua.svg width=60 height=60>
     &ensp;
-    
     <!--  Bash  -->
-    
     &ensp;
     <img title=Bash src=./bash.svg width=60 height=60>
     &ensp;
-    
     <!--  Rust  -->
-    
     &ensp;
     <img title=Rust src=./rust.svg width=60 height=60>
     &ensp;
-    
     <!--  JavaScript  -->
-    
     &ensp;
     <img title=JavaScript src=./js.svg width=60 height=60>
     &ensp;
-    
   </p>
   
   <p align="center">
