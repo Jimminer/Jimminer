@@ -37,6 +37,10 @@
     &ensp;
     <img title=Bash src=./bash.svg width=60 height=60>
     &ensp;
+    <!--  Java  -->
+    &ensp;
+    <img title=Java src=./java.svg width=60 height=60>
+    &ensp;
     <!--  JavaScript  -->
     &ensp;
     <img title=JavaScript src=./js.svg width=60 height=60>
@@ -48,7 +52,7 @@
   </p>
   
   <p align="center">
-      <sup><em>The languages are ordered from most to least favorite.</em></sup>
+      <sup><em>The languages are ordered from most to least experienced in.</em></sup>
   </p>
 </div>
 
