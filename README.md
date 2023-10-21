@@ -10,7 +10,7 @@
 - 👋 My name is Dimitris and I am from Greece
 - 👨🏽‍🎓 I'm studying Computer Science at the University of Western Macedonia, Greece
 - 📫 E-mail: [Personal](jimminer2003@gmail.com) or [Academic](cs04502@uowm.gr)
-- 💬 Discord: Mitsos#6649
+- 💬 Discord: @mitsos
 - 🌐 Website: https://mitsos.dev
 
 <!-- https://skillicons.dev/icons?i=python -->
