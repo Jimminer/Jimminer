@@ -58,9 +58,8 @@
 
 
 ## 🔌 Current Projects:
--  A Mobile/Desktop board game called Love Letter. Repo [here](https://github.com/georgen2003/Love-Letter).
+-  A fully featured ARK Survival Evolved server manager written in Python. (private repo for the moment)
 -  [Open eClass](https://www.openeclass.org/) PC/Android companion app. More info [here](https://jimminer.github.io/open-eclass-companion/).
--  Possible continuation of the [Simple RPG](https://github.com/Jimminer/simple-rpg) game.
 
 ## 📊 Stats:
 <div>
